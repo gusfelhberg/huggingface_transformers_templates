@@ -1,1 +1,6 @@
 .gitignore
+.vscode
+.ipynb_checkpoints
+data/
+lightning_logs/
+t5_wikihow*
